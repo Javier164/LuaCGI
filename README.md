@@ -1,4 +1,4 @@
-# CGI.lua
+# LuaCGI/CGI.lua
 
 A CGI module for the Lua scripting language. 
 This supports features such as GET/POST, Cookies, Upload/Download, HTML Tag Generation and more!
