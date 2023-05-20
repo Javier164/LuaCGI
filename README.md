@@ -18,7 +18,7 @@ However, the performance of the CGI module alongside these technologies have _no
 Do not create an issue! Instead, Fork the repo, add your changes, and create a Pull Request!
 This will make it easier for me to determine whether or not your issue is an actual issue.
 
-With all of that read, have fun with this module! Luarocks support will be added within the near future. For now, you could drag the cgi.lua file right next to your script, or drag it to your Lua modules folder.
+With all of that read, have fun with this module!
 
 ```lua
 local cgi = require("cgi")
